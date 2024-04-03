@@ -2043,7 +2043,7 @@ body {
   }
   #page6 > #page6-lower-button > button {
     left: 50%;
-    width: 65%;
+    width: 75%;
     font-size: 15px;
   }
   #page7 {
@@ -2075,7 +2075,7 @@ body {
   }
   #page7 > #page7-lower-button > button {
     left: 50%;
-    width: 75%;
+    width: 80%;
     font-size: 15px;
     padding: 12px 10px;
     bottom: 8%;
@@ -2406,5 +2406,220 @@ body {
   }
   .break {
     display: none;
+  }
+  #page28 {
+    padding: 15% 20px;
+    height: 80vh;
+  }
+  #page28 > h3 {
+    font-size: 25px;
+  }
+  #page28 > h1 {
+    font-size: 35px;
+    padding-top: 5%;
+  }
+  #page28 > p {
+    width: 100vw;
+    font-size: 4.5vw;
+    padding: 10% 20px;
+  }
+  #page30 {
+    height: 50vh;
+    padding: 15% 20px;
+  }
+  #page30 > h1 {
+    font-size: 25px;
+  }
+  #page30 > p {
+    font-size: 20px;
+    width: 100%;
+    padding: 12% 20px;
+  }
+  #page31 {
+    height: 130vh;
+    padding-top: 0;
+  }
+  #page31 > video {
+    height: 60vh;
+  }
+  #page31-lower {
+    padding: 20px;
+    width: 100%;
+    right: 0;
+  }
+  #page31-lower h1 {
+    font-size: 25px;
+  }
+  #page31-lower > p {
+    font-size: 18px;
+    padding-top: 10%;
+  }
+  #page32 {
+    height: 100vh;
+  }
+  #page32 > #track-off {
+    width: 85%;
+    top: 0;
+  }
+  #page32 > #track-on {
+    width: 85%;
+    top: 0;
+  }
+  #page32-lower {
+    padding: 20px;
+    width: 100vw;
+  }
+  #page32-lower h1 {
+    font-size: 25px;
+  }
+  #page32-lower p {
+    font-size: 18px;
+  }
+  #page33 {
+    height: 100vh;
+  }
+  #page33 > #sensor-1 {
+    width: 85%;
+  }
+  #page33 > #sensor-2 {
+    width: 85%;
+  }
+  #page33 > #sensor-3 {
+    width: 85%;
+  }
+  #page33 > #sensor-4 {
+    width: 85%;
+  }
+  #page33 > #sensor-5 {
+    width: 85%;
+  }
+  #page33-lower {
+    width: 100vw;
+    padding: 20px;
+  }
+  #page33-lower h1 {
+    font-size: 25px;
+  }
+  #page33-lower p {
+    font-size: 18px;
+  }
+  #page34 {
+    height: 165vh;
+  }
+  #page34 > img {
+    height: 46%;
+    top: 10%;
+  }
+  #page34-lower {
+    padding: 20px;
+    width: 100vw;
+    bottom: 15%;
+  }
+  #page34-lower > h1 {
+    font-size: 25px;
+  }
+  #page34-lower > p {
+    font-size: 18px;
+  }
+  #page34 > #page34-lower-button > button {
+    font-size: 15px;
+    width: 75vw;
+    bottom: 6%;
+    padding: 10px 20px;
+  }
+  #page35 {
+    height: 130vh;
+    margin-top: 15%;
+  }
+  #page35 > img {
+    width: 15vw;
+    height: 8vh;
+  }
+  #page35 > h3 {
+    font-size: 25px;
+    padding-top: 19%;
+  }
+  #page35 > h1 {
+    font-size: 35px;
+    padding-top: 32%;
+  }
+  #page35 > p {
+    font-size: 18px;
+    padding: 20px;
+    width: 100vw;
+    bottom: 32%;
+  }
+  #page35 > #page35-lower-button > button {
+    bottom: 15%;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 80vw;
+  }
+  #page36 {
+    width: 90vw;
+    height: 110vh;
+    justify-content: end;
+    flex-direction: column;
+  }
+  #page36-left {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 0;
+  }
+  #page36-left > img {
+    width: 18vw;
+    height: 10vh;
+  }
+  #page36-left > h1 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 8%;
+  }
+  #page36-left > p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5%;
+  }
+  #page36-right {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+  }
+  #page36-right > img {
+    width: 90%;
+    height: 90%;
+    padding: 0;
+  }
+  #page37 {
+    margin-top: 10%;
+    width: 90vw;
+    height: 130vh;
+    padding-top: 15%;
+  }
+  #page37 > img {
+    width: 25vw;
+    height: 25vw;
+  }
+  #page37 > h1 {
+    font-size: 30px;
+    top: 22%;
+    white-space: wrap;
+    width: 100%;
+  }
+  #page37 > p {
+    font-size: 20px;
+    bottom: 21%;
+    width: 100vw;
+    padding: 35px;
+  }
+  #page37 > a {
+    bottom: 6%;
+    font-size: 20px;
+    padding: 35px;
+    width: 100vw;
   }
 }
